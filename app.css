@@ -1,0 +1,9 @@
+html {
+  box-sizing: border-box;
+}
+
+.joke-text {
+  padding: 100px 100px;
+  font-size: 25px;
+  color: black;
+}
